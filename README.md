@@ -1,4 +1,3 @@
-ini contoh nya
-'''bash
+```bash
 trs
-'''
+```
