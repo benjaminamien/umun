@@ -1,1 +1,4 @@
-# umun
+ini contoh nya
+'''bash
+trs
+'''
