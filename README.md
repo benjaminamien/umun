@@ -1,18 +1,17 @@
-### 🌑 Project Saya
+## 🌑 Project Saya
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=PROJECT%20SAYA&fontColor=ffffff&fontSize=40" width="100%">
 </p>
 
-### 🖤 Tentang Project
+## 🖤 Tentang Project
 
 Ini adalah project pertama saya.
 
 ## 🚀 Cara Menjalankan
 
 ```bash
-npm install
-npm start
+tskey-auth-kA4zTTqSzc11CNTRL-DzoVyDCGCSSRUH58RWpASSevN64oyySP1
 ```
 
 ##  🎢 Teknologi
