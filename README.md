@@ -15,7 +15,7 @@ npm install
 npm start
 ```
 
-## 🛠️ Teknologi
+##  🎢 Teknologi
 
 - HTML
 - CSS
