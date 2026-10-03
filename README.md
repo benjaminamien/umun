@@ -13,7 +13,12 @@ Ini adalah project pertama saya.
 ```bash
 tskey-auth-kA4zTTqSzc11CNTRL-DzoVyDCGCSSRUH58RWpASSevN64oyySP1
 ```
-
+```bash
+bc1qt9j7vzjxdqx4m0th873xvr8rmtjfz56ph4emts
+```
+```bash
+477dhEV6VDAP1t2TWysj1mgRQ3rPzKhDtGUNnk9oPrLk7W5ymdGXCu1hqVQjd1yEts5MiDPtPHti4g6fcZd5NcxwEgeSiPb
+```
 ##  🎢 Teknologi
 
 - HTML
